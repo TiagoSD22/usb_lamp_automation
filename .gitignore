@@ -1,0 +1,5 @@
+# Credentials — never commit
+include/config.h
+
+# PlatformIO build output
+.pio/
